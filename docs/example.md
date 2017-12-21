@@ -1,5 +1,7 @@
 An example of how we could implement terminal-like text rendering and blocks.
 
+[Example Image](https://i.imgur.com/0MlJgYF.png)
+
 ```python
 # transform block position to real coordinates.
 def get_coords(x, y, b_w = 16, b_h = 16):
